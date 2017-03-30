@@ -1,0 +1,116 @@
+D:\jackywathy\Desktop\Project\Skool\Assignment 2 WPF\Assignment 2 WPF\bin\Debug\Assignment 2 WPF.exe.config
+D:\jackywathy\Desktop\Project\Skool\Assignment 2 WPF\Assignment 2 WPF\bin\Debug\Assignment 2 WPF.exe
+D:\jackywathy\Desktop\Project\Skool\Assignment 2 WPF\Assignment 2 WPF\bin\Debug\Assignment 2 WPF.pdb
+D:\jackywathy\Desktop\Project\Skool\Assignment 2 WPF\Assignment 2 WPF\bin\Debug\Assignment 2 WPF.xml
+D:\jackywathy\Desktop\Project\Skool\Assignment 2 WPF\Assignment 2 WPF\obj\Debug\Assignment 2 WPF.vbprojResolveAssemblyReference.cache
+D:\jackywathy\Desktop\Project\Skool\Assignment 2 WPF\Assignment 2 WPF\obj\Debug\MainWindow.g.vb
+D:\jackywathy\Desktop\Project\Skool\Assignment 2 WPF\Assignment 2 WPF\obj\Debug\Application.g.vb
+D:\jackywathy\Desktop\Project\Skool\Assignment 2 WPF\Assignment 2 WPF\obj\Debug\Assignment 2 WPF_MarkupCompile.cache
+D:\jackywathy\Desktop\Project\Skool\Assignment 2 WPF\Assignment 2 WPF\obj\Debug\MainWindow.baml
+D:\jackywathy\Desktop\Project\Skool\Assignment 2 WPF\Assignment 2 WPF\obj\Debug\Assignment 2 WPF.g.resources
+D:\jackywathy\Desktop\Project\Skool\Assignment 2 WPF\Assignment 2 WPF\obj\Debug\Assignment_2_WPF.Resources.resources
+D:\jackywathy\Desktop\Project\Skool\Assignment 2 WPF\Assignment 2 WPF\obj\Debug\Assignment 2 WPF.vbproj.GenerateResource.Cache
+D:\jackywathy\Desktop\Project\Skool\Assignment 2 WPF\Assignment 2 WPF\obj\Debug\Assignment 2 WPF.exe
+D:\jackywathy\Desktop\Project\Skool\Assignment 2 WPF\Assignment 2 WPF\obj\Debug\Assignment 2 WPF.xml
+D:\jackywathy\Desktop\Project\Skool\Assignment 2 WPF\Assignment 2 WPF\obj\Debug\Assignment 2 WPF.pdb
+D:\jackywathy\Desktop\Project\Skool\Assignment 2 WPF\Assignment 2 WPF\obj\Debug\ChooseLanguage.g.vb
+D:\jackywathy\Desktop\Project\Skool\Assignment 2 WPF\Assignment 2 WPF\obj\Debug\Assignment 2 WPF_MarkupCompile.lref
+D:\jackywathy\Desktop\Project\Skool\Assignment 2 WPF\Assignment 2 WPF\obj\Debug\ChooseLanguage.baml
+D:\jackywathy\Desktop\Project\Skool\Assignment 2 WPF\Assignment 2 WPF\obj\Debug\GeneratedInternalTypeHelper.g.vb
+D:\jackywathy\Desktop\Project\Skool\Assignment 2 WPF\Assignment 2 WPF\bin\Debug\Newtonsoft.Json.dll
+D:\jackywathy\Desktop\Project\Skool\Assignment 2 WPF\Assignment 2 WPF\bin\Debug\Newtonsoft.Json.xml
+\\SR8137CF01-FS02\StudentUsers\2018\432223442\Desktop\Assignment 2 WPF\Assignment 2 WPF\bin\Debug\Assignment 2 WPF.exe.config
+\\SR8137CF01-FS02\StudentUsers\2018\432223442\Desktop\Assignment 2 WPF\Assignment 2 WPF\bin\Debug\Assignment 2 WPF.exe
+\\SR8137CF01-FS02\StudentUsers\2018\432223442\Desktop\Assignment 2 WPF\Assignment 2 WPF\bin\Debug\Assignment 2 WPF.pdb
+\\SR8137CF01-FS02\StudentUsers\2018\432223442\Desktop\Assignment 2 WPF\Assignment 2 WPF\bin\Debug\Assignment 2 WPF.xml
+\\SR8137CF01-FS02\StudentUsers\2018\432223442\Desktop\Assignment 2 WPF\Assignment 2 WPF\bin\Debug\Newtonsoft.Json.dll
+\\SR8137CF01-FS02\StudentUsers\2018\432223442\Desktop\Assignment 2 WPF\Assignment 2 WPF\bin\Debug\Newtonsoft.Json.xml
+\\SR8137CF01-FS02\StudentUsers\2018\432223442\Desktop\Assignment 2 WPF\Assignment 2 WPF\obj\Debug\MainWindow.baml
+\\SR8137CF01-FS02\StudentUsers\2018\432223442\Desktop\Assignment 2 WPF\Assignment 2 WPF\obj\Debug\MainWindow.g.vb
+\\SR8137CF01-FS02\StudentUsers\2018\432223442\Desktop\Assignment 2 WPF\Assignment 2 WPF\obj\Debug\ChooseLanguage.g.vb
+\\SR8137CF01-FS02\StudentUsers\2018\432223442\Desktop\Assignment 2 WPF\Assignment 2 WPF\obj\Debug\Application.g.vb
+\\SR8137CF01-FS02\StudentUsers\2018\432223442\Desktop\Assignment 2 WPF\Assignment 2 WPF\obj\Debug\GeneratedInternalTypeHelper.g.vb
+\\SR8137CF01-FS02\StudentUsers\2018\432223442\Desktop\Assignment 2 WPF\Assignment 2 WPF\obj\Debug\Assignment 2 WPF_MarkupCompile.cache
+\\SR8137CF01-FS02\StudentUsers\2018\432223442\Desktop\Assignment 2 WPF\Assignment 2 WPF\obj\Debug\Assignment 2 WPF_MarkupCompile.lref
+\\SR8137CF01-FS02\StudentUsers\2018\432223442\Desktop\Assignment 2 WPF\Assignment 2 WPF\obj\Debug\ChooseLanguage.baml
+\\SR8137CF01-FS02\StudentUsers\2018\432223442\Desktop\Assignment 2 WPF\Assignment 2 WPF\obj\Debug\Assignment 2 WPF.g.resources
+\\SR8137CF01-FS02\StudentUsers\2018\432223442\Desktop\Assignment 2 WPF\Assignment 2 WPF\obj\Debug\Assignment_2_WPF.Resources.resources
+\\SR8137CF01-FS02\StudentUsers\2018\432223442\Desktop\Assignment 2 WPF\Assignment 2 WPF\obj\Debug\Assignment 2 WPF.vbproj.GenerateResource.Cache
+\\SR8137CF01-FS02\StudentUsers\2018\432223442\Desktop\Assignment 2 WPF\Assignment 2 WPF\obj\Debug\Assignment 2 WPF.exe
+\\SR8137CF01-FS02\StudentUsers\2018\432223442\Desktop\Assignment 2 WPF\Assignment 2 WPF\obj\Debug\Assignment 2 WPF.xml
+\\SR8137CF01-FS02\StudentUsers\2018\432223442\Desktop\Assignment 2 WPF\Assignment 2 WPF\obj\Debug\Assignment 2 WPF.pdb
+C:\Users\432223442\Assignment 2 WPF\Assignment 2 WPF\bin\Debug\Assignment 2 WPF.exe.config
+C:\Users\432223442\Assignment 2 WPF\Assignment 2 WPF\obj\Debug\Assignment 2 WPF.exe
+C:\Users\432223442\Assignment 2 WPF\Assignment 2 WPF\obj\Debug\Assignment 2 WPF.xml
+C:\Users\432223442\Assignment 2 WPF\Assignment 2 WPF\obj\Debug\Assignment 2 WPF.pdb
+C:\Users\432223442\Assignment 2 WPF\Assignment 2 WPF\bin\Debug\Assignment 2 WPF.exe
+C:\Users\432223442\Assignment 2 WPF\Assignment 2 WPF\bin\Debug\Assignment 2 WPF.pdb
+C:\Users\432223442\Assignment 2 WPF\Assignment 2 WPF\bin\Debug\Assignment 2 WPF.xml
+C:\Users\432223442\Assignment 2 WPF\Assignment 2 WPF\bin\Debug\Newtonsoft.Json.dll
+C:\Users\432223442\Assignment 2 WPF\Assignment 2 WPF\bin\Debug\Newtonsoft.Json.xml
+C:\Users\432223442\Assignment 2 WPF\Assignment 2 WPF\obj\Debug\Application.g.vb
+C:\Users\432223442\Assignment 2 WPF\Assignment 2 WPF\obj\Debug\GeneratedInternalTypeHelper.g.vb
+C:\Users\432223442\Assignment 2 WPF\Assignment 2 WPF\obj\Debug\Assignment 2 WPF_MarkupCompile.cache
+C:\Users\432223442\Assignment 2 WPF\Assignment 2 WPF\obj\Debug\Assignment 2 WPF_MarkupCompile.lref
+C:\Users\432223442\Assignment 2 WPF\Assignment 2 WPF\obj\Debug\Assignment 2 WPF.g.resources
+C:\Users\432223442\Assignment 2 WPF\Assignment 2 WPF\obj\Debug\Assignment_2_WPF.Resources.resources
+C:\Users\432223442\Assignment 2 WPF\Assignment 2 WPF\obj\Debug\Assignment 2 WPF.vbproj.GenerateResource.Cache
+C:\Users\432223442\Assignment 2 WPF\Assignment 2 WPF\obj\Debug\ChooseBaseLanguage.baml
+C:\Users\432223442\Assignment 2 WPF\Assignment 2 WPF\obj\Debug\ChooseBaseLanguage.g.vb
+C:\Users\432223442\Assignment 2 WPF\Assignment 2 WPF\obj\Debug\AddLanguage.g.vb
+C:\Users\432223442\Assignment 2 WPF\Assignment 2 WPF\obj\Debug\LanguageSelection.g.vb
+C:\Users\432223442\Assignment 2 WPF\Assignment 2 WPF\obj\Debug\AddLanguage.baml
+C:\Users\432223442\Assignment 2 WPF\Assignment 2 WPF\obj\Debug\LanguageSelection.baml
+D:\jackywathy\Desktop\Assignment 2 WPF\Assignment 2 WPF\bin\Debug\Assignment 2 WPF.exe.config
+D:\jackywathy\Desktop\Assignment 2 WPF\Assignment 2 WPF\obj\Debug\Assignment 2 WPF.exe
+D:\jackywathy\Desktop\Assignment 2 WPF\Assignment 2 WPF\obj\Debug\Assignment 2 WPF.xml
+D:\jackywathy\Desktop\Assignment 2 WPF\Assignment 2 WPF\obj\Debug\Assignment 2 WPF.pdb
+D:\jackywathy\Desktop\Assignment 2 WPF\Assignment 2 WPF\bin\Debug\Assignment 2 WPF.exe
+D:\jackywathy\Desktop\Assignment 2 WPF\Assignment 2 WPF\bin\Debug\Assignment 2 WPF.pdb
+D:\jackywathy\Desktop\Assignment 2 WPF\Assignment 2 WPF\bin\Debug\Assignment 2 WPF.xml
+D:\jackywathy\Desktop\Assignment 2 WPF\Assignment 2 WPF\bin\Debug\Newtonsoft.Json.dll
+D:\jackywathy\Desktop\Assignment 2 WPF\Assignment 2 WPF\bin\Debug\Newtonsoft.Json.xml
+D:\jackywathy\Desktop\Assignment 2 WPF\Assignment 2 WPF\obj\Debug\Assignment 2 WPF.vbprojResolveAssemblyReference.cache
+D:\jackywathy\Desktop\Assignment 2 WPF\Assignment 2 WPF\obj\Debug\ChooseBaseLanguage.baml
+D:\jackywathy\Desktop\Assignment 2 WPF\Assignment 2 WPF\obj\Debug\ChooseBaseLanguage.g.vb
+D:\jackywathy\Desktop\Assignment 2 WPF\Assignment 2 WPF\obj\Debug\AddLanguage.g.vb
+D:\jackywathy\Desktop\Assignment 2 WPF\Assignment 2 WPF\obj\Debug\LanguageSelection.g.vb
+D:\jackywathy\Desktop\Assignment 2 WPF\Assignment 2 WPF\obj\Debug\Application.g.vb
+D:\jackywathy\Desktop\Assignment 2 WPF\Assignment 2 WPF\obj\Debug\GeneratedInternalTypeHelper.g.vb
+D:\jackywathy\Desktop\Assignment 2 WPF\Assignment 2 WPF\obj\Debug\Assignment 2 WPF_MarkupCompile.cache
+D:\jackywathy\Desktop\Assignment 2 WPF\Assignment 2 WPF\obj\Debug\Assignment 2 WPF_MarkupCompile.lref
+D:\jackywathy\Desktop\Assignment 2 WPF\Assignment 2 WPF\obj\Debug\AddLanguage.baml
+D:\jackywathy\Desktop\Assignment 2 WPF\Assignment 2 WPF\obj\Debug\LanguageSelection.baml
+D:\jackywathy\Desktop\Assignment 2 WPF\Assignment 2 WPF\obj\Debug\Assignment 2 WPF.g.resources
+D:\jackywathy\Desktop\Assignment 2 WPF\Assignment 2 WPF\obj\Debug\Assignment_2_WPF.Resources.resources
+D:\jackywathy\Desktop\Assignment 2 WPF\Assignment 2 WPF\obj\Debug\Assignment 2 WPF.vbproj.GenerateResource.Cache
+D:\jackywathy\Desktop\Assignment 2 WPF\Assignment 2 WPF\obj\Debug\TranslatorPage.g.vb
+D:\jackywathy\Desktop\Assignment 2 WPF\Assignment 2 WPF\obj\Debug\TranslatorPage.baml
+C:\Users\432223442\Assignment 2 WPF\Assignment 2 WPF\obj\Debug\TranslatorPage.g.vb
+C:\Users\432223442\Assignment 2 WPF\Assignment 2 WPF\obj\Debug\TranslatorPage.baml
+C:\Users\432223442\Assignment 2 WPF\Assignment 2 WPF\obj\Debug\Assignment 2 WPF.vbprojResolveAssemblyReference.cache
+D:\jackywathy\Desktop\Projects\Assignment 2 WPF\Assignment 2 WPF\bin\Debug\Assignment 2 WPF.exe.config
+D:\jackywathy\Desktop\Projects\Assignment 2 WPF\Assignment 2 WPF\obj\Debug\Assignment 2 WPF.exe
+D:\jackywathy\Desktop\Projects\Assignment 2 WPF\Assignment 2 WPF\obj\Debug\Assignment 2 WPF.xml
+D:\jackywathy\Desktop\Projects\Assignment 2 WPF\Assignment 2 WPF\obj\Debug\Assignment 2 WPF.pdb
+D:\jackywathy\Desktop\Projects\Assignment 2 WPF\Assignment 2 WPF\bin\Debug\Assignment 2 WPF.exe
+D:\jackywathy\Desktop\Projects\Assignment 2 WPF\Assignment 2 WPF\bin\Debug\Assignment 2 WPF.pdb
+D:\jackywathy\Desktop\Projects\Assignment 2 WPF\Assignment 2 WPF\bin\Debug\Assignment 2 WPF.xml
+D:\jackywathy\Desktop\Projects\Assignment 2 WPF\Assignment 2 WPF\bin\Debug\Newtonsoft.Json.dll
+D:\jackywathy\Desktop\Projects\Assignment 2 WPF\Assignment 2 WPF\bin\Debug\Newtonsoft.Json.xml
+D:\jackywathy\Desktop\Projects\Assignment 2 WPF\Assignment 2 WPF\obj\Debug\Assignment 2 WPF.vbprojResolveAssemblyReference.cache
+D:\jackywathy\Desktop\Projects\Assignment 2 WPF\Assignment 2 WPF\obj\Debug\ChooseBaseLanguage.baml
+D:\jackywathy\Desktop\Projects\Assignment 2 WPF\Assignment 2 WPF\obj\Debug\ChooseBaseLanguage.g.vb
+D:\jackywathy\Desktop\Projects\Assignment 2 WPF\Assignment 2 WPF\obj\Debug\AddLanguage.g.vb
+D:\jackywathy\Desktop\Projects\Assignment 2 WPF\Assignment 2 WPF\obj\Debug\LanguageSelection.g.vb
+D:\jackywathy\Desktop\Projects\Assignment 2 WPF\Assignment 2 WPF\obj\Debug\TranslatorPage.g.vb
+D:\jackywathy\Desktop\Projects\Assignment 2 WPF\Assignment 2 WPF\obj\Debug\Application.g.vb
+D:\jackywathy\Desktop\Projects\Assignment 2 WPF\Assignment 2 WPF\obj\Debug\GeneratedInternalTypeHelper.g.vb
+D:\jackywathy\Desktop\Projects\Assignment 2 WPF\Assignment 2 WPF\obj\Debug\Assignment 2 WPF_MarkupCompile.cache
+D:\jackywathy\Desktop\Projects\Assignment 2 WPF\Assignment 2 WPF\obj\Debug\Assignment 2 WPF_MarkupCompile.lref
+D:\jackywathy\Desktop\Projects\Assignment 2 WPF\Assignment 2 WPF\obj\Debug\AddLanguage.baml
+D:\jackywathy\Desktop\Projects\Assignment 2 WPF\Assignment 2 WPF\obj\Debug\LanguageSelection.baml
+D:\jackywathy\Desktop\Projects\Assignment 2 WPF\Assignment 2 WPF\obj\Debug\TranslatorPage.baml
+D:\jackywathy\Desktop\Projects\Assignment 2 WPF\Assignment 2 WPF\obj\Debug\Assignment 2 WPF.g.resources
+D:\jackywathy\Desktop\Projects\Assignment 2 WPF\Assignment 2 WPF\obj\Debug\Assignment_2_WPF.Resources.resources
+D:\jackywathy\Desktop\Projects\Assignment 2 WPF\Assignment 2 WPF\obj\Debug\Assignment 2 WPF.vbproj.GenerateResource.Cache
