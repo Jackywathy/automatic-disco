@@ -6,55 +6,114 @@
         xmlns:local="clr-namespace:Assignment_2_WPF"
         mc:Ignorable="d"
         Title="LanguageSelection" Height="800" Width="1000" Loaded="Window_Loaded" Closed="Window_Closed" SizeChanged="Window_SizeChanged">
+    <Window.Resources>
+        <BitmapImage UriSource="images/empty_star.png" x:Key="emptyStarBitmap"></BitmapImage>
+        <BitmapImage UriSource="images/filled_star.png" x:Key ="filledStarBitmap"></BitmapImage>
+    </Window.Resources>
+
+
     <Grid>
-        <StackPanel Orientation="Vertical" Grid.ColumnSpan="3">
-            <Menu IsMainMenu="True">
-                <MenuItem Header="_File">
-                    <MenuItem Header="_New Save List">
-                        <MenuItem.Icon>
-                            <Image Source="images/newicon.jpg" />
-                        </MenuItem.Icon>
-                    </MenuItem>
+   
+        <Grid.RowDefinitions>
+            <RowDefinition Name="ToolBar" Height="Auto"></RowDefinition>
+            <RowDefinition Name="LabelHolder" Height="Auto"></RowDefinition>
+            <RowDefinition Name="TabControls" Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
 
-                    <MenuItem Header="_Open Save List">
-                        <MenuItem.Icon>
-                            <Image Source="images/openicon.png" />
-                        </MenuItem.Icon>
-                    </MenuItem>
-
-
-                </MenuItem>
-                <MenuItem Header="_Language">
-                    <MenuItem Header="_Language Selection" Name="ToolBarLangSelect">
-                        <MenuItem.Icon>
-                            <Image Source="images/openlanguage.png" />
-                        </MenuItem.Icon>
-                    </MenuItem>
+        <Menu IsMainMenu="True" Grid.Row="0">
+            <MenuItem Header="_File">
+                <MenuItem Header="_New Save List">
+                    <MenuItem.Icon>
+                        <Image Source="images/newicon.jpg" />
+                    </MenuItem.Icon>
                 </MenuItem>
 
-                <MenuItem Header="_Help" />
-            </Menu>
-            <Label x:Name="LblTranslator" HorizontalAlignment="Center" HorizontalContentAlignment="Center" VerticalAlignment="Top" VerticalContentAlignment="Center" Content="Translator" FontFamily="Tahoma" FontSize="70" FontWeight="ExtraBlack"/>
-
-            <Grid>
-                <Grid.ColumnDefinitions>
-                    <ColumnDefinition Width="*"></ColumnDefinition>
-                </Grid.ColumnDefinitions>
-                <Grid.RowDefinitions>
-                    <RowDefinition Height="*"></RowDefinition>
-                </Grid.RowDefinitions>
-
-                <TabControl x:Name="tabControl" HorizontalContentAlignment="Stretch" VerticalContentAlignment="Stretch">
-                    <TabItem Header="TabItem">
-                        <Grid Background="#FFE5E5E5"/>
-                    </TabItem>
-                    <TabItem Header="TabItem">
-                        <Grid Background="#FFE5E5E5"/>
-                    </TabItem>
-                </TabControl>
-            </Grid>
+                <MenuItem Header="_Open Save List">
+                    <MenuItem.Icon>
+                        <Image Source="images/openicon.png" />
+                    </MenuItem.Icon>
+                </MenuItem>
 
 
-        </StackPanel>
+            </MenuItem>
+            <MenuItem Header="_Language">
+                <MenuItem Header="_Language Selection" Name="ToolBarLangSelect">
+                    <MenuItem.Icon>
+                        <Image Source="images/openlanguage.png" />
+                    </MenuItem.Icon>
+                </MenuItem>
+            </MenuItem>
+
+            <MenuItem Header="_Help" />
+        </Menu>
+        <Label x:Name="LblTranslator" HorizontalAlignment="Center" HorizontalContentAlignment="Center" VerticalAlignment="Center" VerticalContentAlignment="Center" Content="Translator" FontFamily="Tahoma" FontSize="70" FontWeight="ExtraBlack" Grid.Row="1" Margin="5,0"/>
+
+        <Grid Grid.Row="2">
+            
+
+            <TabControl x:Name="tabControl" HorizontalContentAlignment="Stretch" VerticalContentAlignment="Stretch">
+                <TabItem Header="Common Phrases">
+
+                    <Grid Background="#FFE5E5E5" Margin="5">
+
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="Auto"></RowDefinition>
+                            <RowDefinition Height="*"></RowDefinition>
+                        </Grid.RowDefinitions>
+
+
+
+                        <ComboBox Grid.Row="0" HorizontalContentAlignment="Right" HorizontalAlignment="Right" VerticalAlignment="Center" VerticalContentAlignment="Center" Grid.Column="1" Margin="0,0,0,0.4"></ComboBox>
+
+                        <ListView x:Name="CommonPhraseListView" Grid.Row="1" Margin="10" Grid.ColumnSpan="2" ItemsSource="{Binding AllCommonPhrases}">
+                            <!--<ListView.ItemContainerStyle>
+                                    <Style TargetType="ListBoxItem">
+                                        <EventSetter Event="MouseUp" Handler="ListBoxItem_Selected"/>
+                                    </Style>
+                                </ListView.ItemContainerStyle>-->
+
+
+
+                            <ListView.ItemTemplate>
+                                <HierarchicalDataTemplate>
+                                    <Border BorderThickness="5" BorderBrush="#FF1986D1" HorizontalAlignment="Center">
+                                        <Grid>
+                                            <Grid.ColumnDefinitions>
+                                                <ColumnDefinition Width="Auto"/>
+                                                <ColumnDefinition Width="*"/>
+                                                <ColumnDefinition Width="0.4*"/>
+                                            </Grid.ColumnDefinitions>
+
+
+                                            <Image Source="{Binding ImagePath}" Width="32" Height="32" Grid.Column="0">
+                                                <Image.Style>
+                                                    <Style TargetType="Image">
+                                                        <EventSetter Event="MouseUp" Handler="ListBoxItem_Selected"/>
+                                                    </Style>
+                                                </Image.Style>
+                                            </Image>
+
+                                            <Label Content="{Binding FromLang}" HorizontalContentAlignment="Left" HorizontalAlignment="Stretch" VerticalContentAlignment="Center"  Grid.Column="1"></Label>
+                                            <Label Content="{Binding ToLang}" HorizontalAlignment="Stretch" HorizontalContentAlignment="Left" VerticalContentAlignment="Center" Grid.Column="2"></Label>
+                                            <Label Content="{Binding Id}" Visibility="Collapsed" Grid.Column="2"></Label>
+                                            <Label Content="{Binding IdToItself}" Visibility="Collapsed" Grid.Column="2"></Label>
+
+
+
+                                        </Grid>
+                                    </Border>
+                                </HierarchicalDataTemplate>
+                            </ListView.ItemTemplate>
+                        </ListView>
+                    </Grid>
+                </TabItem>
+                <TabItem Header="TabItem">
+                    <Grid Background="#FFE5E5E5"/>
+                </TabItem>
+            </TabControl>
+        </Grid>
+
+
     </Grid>
+
 </Window>

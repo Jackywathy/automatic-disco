@@ -38,7 +38,7 @@ Public Class LanguageWrapper
         End Using
     End Function
 
-    Public Shared Function LoadEng() As LanguageWrapper
+    Private Shared Function LoadEng() As LanguageWrapper
         Dim english As New LanguageWrapper("English", "England", "")
         english.AddPhrase(0, "Hello")
         english.AddPhrase(1, "Do you speak English?")
@@ -56,7 +56,7 @@ Public Class LanguageWrapper
         Return english
     End Function
 
-    Public Shared Function LoadChn() As LanguageWrapper
+    Private Shared Function LoadChn() As LanguageWrapper
         Dim chinese As New LanguageWrapper("Chinese", "China", "")
         chinese.AddPhrase(0, "你好")
         chinese.AddPhrase(1, "你会说英语吗?")
@@ -74,7 +74,7 @@ Public Class LanguageWrapper
         Return chinese
     End Function
 
-     Public Shared Function LoadGer() As LanguageWrapper
+     Private Shared Function LoadGer() As LanguageWrapper
         Dim german As New LanguageWrapper("German", "Germany", "")
         german.AddPhrase(0, "Hallo")
         german.AddPhrase(1, "sprichst du Englisch")
@@ -91,7 +91,7 @@ Public Class LanguageWrapper
         Return german
     End Function
 
-    Public Shared Function LoadRus() As LanguageWrapper
+    Private Shared Function LoadRus() As LanguageWrapper
         Dim russian As New LanguageWrapper("Russian", "Russia", "")
         russian.AddPhrase(0, "Здравствуйте")
         russian.AddPhrase(1, "Ты говоришь по-английски?")
@@ -112,10 +112,7 @@ Public Class LanguageWrapper
     Public Shared Sub LoadDefaultLanguages()
         Load4CurrentLangs()
 
-        LoadLanguageIntoLoaded(LoadEng)
-        LoadLanguageIntoLoaded(LoadChn)
-        LoadLanguageIntoLoaded(LoadGer)
-        LoadLanguageIntoLoaded(LoadRus)
+        
     End Sub
 
     Shared Sub Load4CurrentLangs()
@@ -123,6 +120,10 @@ Public Class LanguageWrapper
         FourCurrentLanguages.Add("chinese")
         FourCurrentLanguages.Add("german")
         FourCurrentLanguages.Add("russian")
+        LoadLanguageIntoLoaded(LoadEng)
+        LoadLanguageIntoLoaded(LoadChn)
+        LoadLanguageIntoLoaded(LoadGer)
+        LoadLanguageIntoLoaded(LoadRus)
     End Sub
 
     Shared Sub LoadLanguageIntoLoaded(lang As LanguageWrapper)
@@ -130,6 +131,7 @@ Public Class LanguageWrapper
     End Sub
 
     Shared Function GetCurrentLanguage(index As Integer) As LanguageWrapper
+        ' there are 4 current languages, so get the index
         Return LoadedLanguages(FourCurrentLanguages(index))
     End Function
 
@@ -159,6 +161,11 @@ Public Class LanguageWrapper
             Return "No Entry for language :("
         End If
         Return GetPhrase(999)
+    End Function
+    
+    Function HasPhrase(id as Integer) as Boolean
+        Dim phrase = ""
+        Return IdToWord.TryGetValue(id, phrase)
     End Function
 End Class
 

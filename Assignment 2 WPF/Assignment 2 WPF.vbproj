@@ -180,5 +180,11 @@
   <ItemGroup>
     <Resource Include="newicon.jpg" />
   </ItemGroup>
+  <ItemGroup>
+    <Resource Include="images\empty_star.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="images\filled_star.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
 </Project>

@@ -11,5 +11,5 @@
 Option Strict Off
 Option Explicit On
 
-<Assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("newicon.jpg")> 
+<Assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("images/filled_star.png")> 
 
